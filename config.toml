@@ -1,0 +1,21 @@
+title="Nhu Quan DANG"
+theme = "nix"
+
+[params]
+  GithubID = "nhuquan"
+  LinkedInID = "nhu-quan-dang-6208a162"
+  Name = "Daniel Dang"
+  HeaderUsername = "ddang"
+  HeaderHostname = "home"
+  Email = "ddang308@gmail.com"
+  Mobile = "+33634444606"
+  About = "I'm a father, a software developer, and a simple man."
+  ProfilePicture = "https://media.licdn.com/dms/image/C5603AQHwUUO3F7i7gQ/profile-displayphoto-shrink_200_200/0?e=1534377600&v=beta&t=W9DsGcOvyWMaJqm3zMR2W_wtcb0LekpEcxINWlgRz4Q"
+  CvURL = "your_cv_url"
+
+[menu]
+  [[menu.header]]
+    identifier = "post"
+    name = "posts"
+    weight = 0
+    url = "/posts"
