@@ -1,3 +1,5 @@
+baseURL="https://nhuquan.github.io"
+languageCode="en-us"
 title="Nhu Quan DANG"
 theme = "nix"
 
@@ -15,7 +17,6 @@ theme = "nix"
 
 [menu]
   [[menu.header]]
-    identifier = "post"
     name = "posts"
     weight = 0
     url = "/posts"
