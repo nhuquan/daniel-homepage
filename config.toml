@@ -20,3 +20,7 @@ theme = "nix"
     name = "posts"
     weight = 0
     url = "/posts"
+  [[menu.header]]
+    name = "games"
+    weight = 1
+    url = "/games"
