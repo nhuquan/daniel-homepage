@@ -24,3 +24,7 @@ theme = "nix"
     name = "games"
     weight = 1
     url = "/games"
+  [[menu.header]]
+    name = "apps"
+    weight = 2
+    url = "/apps"
