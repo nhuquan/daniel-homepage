@@ -9,11 +9,11 @@ theme = "nix"
   Name = "Daniel Dang"
   HeaderUsername = "ddang"
   HeaderHostname = "home"
-  Email = "ddang308@gmail.com"
-  Mobile = "+33634444606"
-  About = "I'm a father, a software developer, and a simple man."
+  Email = "quandangnhu@gmail.com"
+  Mobile = "+84981682904"
+  About = "Hi, I'm Daniel, senior software developer, and a simple man."
   ProfilePicture = "https://media.licdn.com/dms/image/C5603AQHwUUO3F7i7gQ/profile-displayphoto-shrink_200_200/0?e=1534377600&v=beta&t=W9DsGcOvyWMaJqm3zMR2W_wtcb0LekpEcxINWlgRz4Q"
-  CvURL = "CVQuanFR.docx"
+  CvURL = ""
 
 [menu]
   [[menu.header]]
