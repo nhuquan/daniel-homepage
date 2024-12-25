@@ -1,0 +1,30 @@
+baseURL: "https://nhuquan.github.io"
+languageCode: "en-us"
+title: "Daniel DANG"
+theme:  "nix"
+
+params:
+  subtitle: ""
+  contact:
+    name: "Daniel Dang"
+    headerUsername: "ddang"
+    headerHostname: "home"
+    email: "quandangnhu@gmail.com"
+    mobile: "+84981682904"
+    linkedInID: "daniel-nhu-quan"
+    githubID: "nhuquan"
+    cvURL: ""
+    about: "Hi, I'm Daniel, senior software developer, and a simple man."
+    profilePicture: "https://media.licdn.com/dms/image/C5603AQHwUUO3F7i7gQ/profile-displayphoto-shrink_200_200/0?e=1534377600&v=beta&t=W9DsGcOvyWMaJqm3zMR2W_wtcb0LekpEcxINWlgRz4Q"
+
+menus:
+  main:
+    - name: "posts"
+      weight: 0
+      url: "/posts"
+    - name: "games"
+      weight:  1
+      url: "/games"
+    - name: "apps"
+      weight: 2
+      url: "/apps"
